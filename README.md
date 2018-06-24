@@ -1,2 +1,3 @@
 # hello-world1
-hello
+
+Hello, I am a newcomer to web developemnt and hope to have a rewarding career!
